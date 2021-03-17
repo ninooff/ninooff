@@ -1,4 +1,9 @@
 ### Olar 👋
+-Currently working with CSS, Html and JS
+-I did 3 years of computer engineering and decides to leave to work only with front-end and design-related projects
+  Experiences
+-In the "maratona discover" course, an app for balancing balance and expenses was developed with CSS,Html and JS, after completing the application I transformed it into a family planning app, exploring the graphs function with google chart tools.
+-In NLW4 an app was developed to stimulate preventive actions, with exercises and programmed rests, with a timer function and an RPG interface, I learned the basics of React, with its contexts and interfaces, I intend to go deeper in the future
 
 <!--
 **ninooff/ninooff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
